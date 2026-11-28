@@ -1,17 +1,17 @@
 
 # Bank of India – Transaction Analytics & Business Intelligence Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Bank of India – Transaction Analytics & Business Intelligence Dashboard** is an individual Data Analytics project developed using Microsoft Excel.
 
 This project focuses on analyzing banking transactions, customer behavior, and branch performance to generate meaningful business insights. The dashboard provides a clear overview of transaction activities through interactive visualizations and key performance indicators (KPIs).
 
-## 🎯 Project Objective
+##  Project Objective
 
 To analyze banking transactions, customer behavior, and branch performance to generate meaningful business insights and support data-driven decision-making.
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 The project uses a self-created banking transaction dataset.
 
@@ -24,11 +24,11 @@ The project uses a self-created banking transaction dataset.
 
 **Note:** This is a simulated dataset created for learning and portfolio demonstration. It does not represent official Bank of India customer or transaction records.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Excel:** Data cleaning, data analysis, calculations, and dashboard development.
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. **Data Collection:** Prepared a banking transaction dataset.
 2. **Data Cleaning:** Cleaned and organized the dataset using Microsoft Excel.
@@ -37,7 +37,7 @@ The project uses a self-created banking transaction dataset.
 5. **Dashboard Development:** Designed a comprehensive dashboard to present key banking insights.
 6. **Business Insights:** Identified trends and opportunities for improving banking performance.
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### 1. Branch-wise Transaction Analysis
 - Analyzes transaction performance across different bank branches.
@@ -63,7 +63,7 @@ The project uses a self-created banking transaction dataset.
 - Analyzes transaction trends over different time periods.
 - Supports year-wise, month-wise, and day-wise comparisons.
 
-## 📉 Dashboard Visualizations
+##  Dashboard Visualizations
 
 The dashboard includes the following visualizations:
 
@@ -75,7 +75,7 @@ The dashboard includes the following visualizations:
 
 These visualizations help users understand banking performance and identify important transaction patterns.
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 - Credit transaction value is higher than debit transaction value.
 - Salary transactions contribute significantly to the total transaction amount.
@@ -83,7 +83,7 @@ These visualizations help users understand banking performance and identify impo
 - Transaction performance varies across different bank branches.
 - Cheque, POS/Card, and RTGS are important transaction modes.
 
-## 🚀 Business Recommendations
+##  Business Recommendations
 
 - Improve customer engagement in branches with lower transaction activity.
 - Study high-performing branches to identify successful business practices.
@@ -91,7 +91,7 @@ These visualizations help users understand banking performance and identify impo
 - Encourage convenient digital payment methods.
 - Develop strategies to improve customer banking experiences.
 
-## 🎓 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
@@ -102,7 +102,7 @@ These visualizations help users understand banking performance and identify impo
 - Dashboard Development
 - Business Insights Generation
 
-## 📝 Conclusion
+##  Conclusion
 
 The Bank of India Transaction Analytics & Business Intelligence Dashboard demonstrates how Microsoft Excel can transform raw banking transaction data into meaningful business insights.
 
@@ -110,10 +110,10 @@ This project provides an understanding of customer transactions, branch performa
 
 It also demonstrates practical data analytics skills and the ability to use data visualization for business decision-making.
 
-## 👨‍💻 Author
+##  Author
 
 **GitHub Username:** `hassh-hd-dubey`
 
 ---
 
-⭐ If you find this project useful, consider giving it a star!
+ If you find this project useful, consider giving it a star!
